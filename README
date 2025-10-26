@@ -1,0 +1,38 @@
+
+Team Members:
+
+Name: Mary Zhang
+JHED: mzhan188
+Hopkins ID: DDA34C
+
+Name: Megan Weng
+JHED: mweng5
+Hopkins ID: E7F12C
+
+Name: Jiaxing Brisbois
+JHED: jbrisbo1
+Hopkins ID: FCBE9E
+
+Task Name                             | Difficulty | Dependencies                                                        | Owner   | Due Date | Status     |
+--------------------------------------|------------|---------------------------------------------------------------------|---------|----------|------------|
+UML diagram                           | 2          | none                                                                | all     | 4/20     | Completed! |
+pawn legal move, capture, testing     | 3          | piece.h                                                             | Mary    | 4/21     | Completed! |
+knight legal move, capture, testing   | 3          | piece.h                                                             | Mary    | 4/21     | Completed! |
+bishop legal move, capture, testing   | 3          | piece.h                                                             | Mary    | 4/21     | Completed! |
+rook legal move, capture, testing     | 3          | piece.h                                                             | Mary    | 4/21     | Completed! |
+queen legal move, capture, testing    | 5          | piece.h                                                             | Mary    | 4/21     | Completed! |
+king legal move, capture, testing     | 5          | piece.h                                                             | Mary    | 4/21     | Completed! |
+check                                 | 3          | Board.h, Board.cpp, Game.h, Game.cpp                                | Megan   | 4/23     | Completed! |
+checkmate                             | 5          | Board.h, Board.cpp, Game.h, Game.cpp                                | Megan   | 4/23     | Completed! |
+piece promotion                       | 5          | Board.h, Board.cpp, Game.h, Game.cpp                                | Megan   | 4/23     | Completed! |
+stalemate                             | 5          | Board.h, Board.cpp, Game.h, Game.cpp                                | Megan   | 4/23     | Completed! |
+make_move                             | 6          | Functions for check, checkmate, stalemate, piece promotion, and     | Megan   | 4/25     | Completed! |
+                                      |            | legal_move_shape() for all pieces                                   |         |          |            |
+main file error handling, testing     | 7          | is_valid_game()                                                     | Jiaxing | 4/25     | Completed! |
+main illegal move recovery, testing   | 7          | Make_move, legal_move shape                                         | Jiaxing | 4/25     | Completed! |
+Board create piece, testing           | 6          | Piece.h, all .cpps and .h for pieces                                | Megan   | 4/25     | Completed! |
+Board display, testing                | 6          | Board.cpp, Board.h, Terminal.h                                      | Megan   | 4/25     | Completed! |
+Game construction, testing            | 7          | Game.h, Game.cpp                                                    | Megan   | 4/26     | Completed! |
+mystery class                         | 5          | piece.h                                                             | Jiaxing | 4/26     | Completed! |
+points counter, testing               | 8          | game.h, game.cpp (contains piece and board content)                 | all     | 4/27     | Completed! |
+gitlog.txt                            | 1          | none                                                                | all     | 4/27     | Completed! |

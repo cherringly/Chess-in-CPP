@@ -1,0 +1,450 @@
+commit db56a2713f7c00c1bceea13a20d6cec4c8e45abb
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Mon Apr 28 10:42:43 2025 -0400
+
+    Updated README
+
+commit aca8b32c486412990b198e1b00b3378bf2ee86ab
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Mon Apr 28 10:42:11 2025 -0400
+
+    Updated README
+
+commit c9f59f8f0fa047c8518d0e5e15c1a64fc4ecd401
+Author: Mary Zhang <mzhan188@jh.edu>
+Date:   Mon Apr 28 10:36:25 2025 -0400
+
+    added mystery check_path and definition
+
+commit 9eb3342b8ad0bd526b6a680a3d58c50c1a8f6918
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Sun Apr 27 23:21:13 2025 -0400
+
+    styling and comments
+
+commit b68ef0619576836b6a4ee0381afe8afdb5ae3ad2
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Sun Apr 27 23:15:17 2025 -0400
+
+    fixed board assignment operator
+
+commit 278f3c0fe36fd67daf5c1c546bdc340eb7f8d4d6
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Sun Apr 27 22:37:12 2025 -0400
+
+    removed print statements
+
+commit 348c2f9ac2eb303a36afb5db8daff48def644aa4
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sun Apr 27 22:25:22 2025 -0400
+
+    YAY IM DONE and commented and whatever works works
+
+commit 36c9d6a178479b21c354f6e5d8a289d6ad201089
+Author: Mary Zhang <mzhan188@jh.edu>
+Date:   Sun Apr 27 22:20:29 2025 -0400
+
+    comments on game
+
+commit c49896b941ae8e7c09e6323d3cd170a815755afd
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Sun Apr 27 22:12:39 2025 -0400
+
+    commented main
+
+commit 06880705326840e2de8f41b623f9307d425c1007
+Author: Mary Zhang <mzhan188@jh.edu>
+Date:   Sun Apr 27 21:53:18 2025 -0400
+
+    added pawn promo back
+
+commit d09432acdfbebb1776d0bfe607ed708669424653
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sun Apr 27 21:42:09 2025 -0400
+
+    IT FINALLY WORKS YAY
+
+commit f37e22be78aa72ebdc7e89174e29941ab8f5d001
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Sun Apr 27 21:09:32 2025 -0400
+
+    added print statements to check stalemate errs
+
+commit 1d76a10110f33ba3bb4cd79c21d22f33f384f350
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sun Apr 27 20:59:17 2025 -0400
+
+    added one line
+
+commit 50cc7e2b9ed7a72d86216605afe3226f86b0129d
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sun Apr 27 20:51:00 2025 -0400
+
+    board assignment operator overload
+
+commit ecb82df7124da1b40fdc2400f1c573ea9b9ac3f7
+Author: Mary Zhang <mzhan188@jh.edu>
+Date:   Sun Apr 27 15:41:22 2025 -0400
+
+    kings
+
+commit 492468b6b2432c298ee8095e7285ae39b7856fb4
+Merge: 3101ab4 3874215
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sun Apr 27 15:04:35 2025 -0400
+
+    not a merge conflict again
+
+commit 3101ab4106c8696ee6c6bfda1ead2b33c3b29f3a
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sun Apr 27 15:04:01 2025 -0400
+
+    something works ???
+
+commit 3874215e28cf3098b396cf17675505e714fa09fa
+Author: Mary Zhang <mzhan188@jh.edu>
+Date:   Sun Apr 27 14:58:08 2025 -0400
+
+    added new stalemate positions
+
+commit cce75fa061a7e78a057c55e21f4a0a793b2e5357
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sun Apr 27 14:55:16 2025 -0400
+
+    checkmate and stalemate are kind of working?
+
+commit 82fadf2a3b858ec64eafd8c60afe2f5cd38c5673
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sun Apr 27 14:25:58 2025 -0400
+
+    game constructor may fix some things
+
+commit ded5711030e1f9e24af05c50d03f47f7880cfcaf
+Merge: 0d60a5f e97f97f
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Sun Apr 27 14:08:39 2025 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2025-spring-final-mweng5-mzhan188-jbrisbo1
+
+commit 0d60a5f8f71d39746e1cea54ff030f7fdbedac8f
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Sun Apr 27 14:08:35 2025 -0400
+
+    small changes to make check, make_move functions work better
+
+commit e97f97f2182119a8a1c06091c71e76f64c4ff4a3
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sun Apr 27 14:05:59 2025 -0400
+
+    board constructor that maybe will work
+
+commit 45f013fff3c1692a835191a1c240a877cc177e04
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sun Apr 27 00:27:49 2025 -0400
+
+    commented parts are gone from game2
+
+commit aa0b006aa16f0f5402b789dad51be3d007c97a8f
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sun Apr 27 00:25:16 2025 -0400
+
+    now there are 2 games that both dont work
+
+commit 484b80be94782f07107e234dbfc9ca6ff42f95b6
+Merge: d548e89 5e93dfa
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sun Apr 27 00:01:29 2025 -0400
+
+    ???
+
+commit 5e93dfaa5307e19e17ab0ff9e199682ac0d3126f
+Author: Mary Zhang <mzhan188@jh.edu>
+Date:   Sun Apr 27 00:00:47 2025 -0400
+
+    removed mystery.cpp
+
+commit d548e8953a0a8756425f47a0929675b56ceef882
+Merge: 434ddf8 e186669
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sat Apr 26 23:59:35 2025 -0400
+
+    ???
+
+commit 434ddf83ae8228bfa70324d4d0890116d42ddf53
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sat Apr 26 23:55:16 2025 -0400
+
+    redid checkmate but probably wrong
+
+commit e1866699f7d949373afd5cace1fc4d941c04ba93
+Author: Mary Zhang <mzhan188@jh.edu>
+Date:   Sat Apr 26 23:54:37 2025 -0400
+
+    mystery added
+
+commit 8cb2425e0cc14d353ee58c102036c0997687746e
+Merge: 4b45ab7 b46a417
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Sat Apr 26 23:30:58 2025 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2025-spring-final-mweng5-mzhan188-jbrisbo1
+
+commit 4b45ab7041e86a77aa887ff070173ebf0404f7c1
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Sat Apr 26 23:30:32 2025 -0400
+
+    added board destructor
+
+commit b46a417d890284ab1868263e25d526205e0d894c
+Author: Mary Zhang <mzhan188@jh.edu>
+Date:   Sat Apr 26 23:03:54 2025 -0400
+
+    added pawn promotion
+
+commit 52b3221f9bd3e4bb1d63e71f5e09ab8a04742d26
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Sat Apr 26 22:50:03 2025 -0400
+
+    update stalemate
+
+commit 46a1b41921edacd464dd49eaa3cd0fce2af1293f
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Sat Apr 26 22:46:18 2025 -0400
+
+    updating in_make and check_move_check
+
+commit 2441a8cc2edb81de294bc779e2d07b22cac53582
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Sat Apr 26 22:14:06 2025 -0400
+
+    added code for taking player move from loaded input
+
+commit f6e235f015e4912a53d7a2efaf8ecfb80b44ef21
+Merge: 074ab9c d670a63
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Sat Apr 26 22:06:44 2025 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2025-spring-final-mweng5-mzhan188-jbrisbo1
+
+commit 074ab9c4079e87f1fb11c4c7605dea9412d52d5a
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Sat Apr 26 22:06:05 2025 -0400
+
+    added Loading function
+
+commit d670a63508bfc3cb65ad51453a167b3ff9bb31b6
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sat Apr 26 21:54:51 2025 -0400
+
+    something failed
+
+commit 4f5b1b710e0a53b76efc4a53e532a8d2baa1b198
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sat Apr 26 21:32:27 2025 -0400
+
+    changed some redundant code
+
+commit 129c0e20c918ae1fcc5bbe5f82aef0f4e7c300f1
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sat Apr 26 21:16:37 2025 -0400
+
+    one line
+
+commit 5b196a14841a158d6c4f50857fb207e01fdd8c87
+Merge: 6790e07 df434b6
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sat Apr 26 21:10:01 2025 -0400
+
+    what
+
+commit 6790e074967e84347437d99ce4e9ddc469acaed1
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sat Apr 26 21:08:16 2025 -0400
+
+    nvm that did not work
+
+commit df434b6631af212e4856aa0be6ac85213abb0b09
+Author: Mary Zhang <mzhan188@jh.edu>
+Date:   Sat Apr 26 21:00:13 2025 -0400
+
+    added try catch for all cases in main.cpp
+
+commit 43d21d861603eeb2ac8868dbe1876750ca020364
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sat Apr 26 20:56:38 2025 -0400
+
+    make move now includes check but might not work
+
+commit 0d5fc9e76b812deee51e7052bd0bf79a31b7c1a2
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sat Apr 26 20:18:56 2025 -0400
+
+    uncommented main
+
+commit f0192ca30b36f5568f70bab1012caefd5b7827e5
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Sat Apr 26 18:13:35 2025 -0400
+
+    fixed point value and check path
+
+commit 8c858c997bd1d969484fe922d5b2bf4104b0c11d
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Fri Apr 25 18:25:52 2025 -0400
+
+    fixed make move and other things
+
+commit ebc37ae1c6255ed2282a4a2ded085617c41747a6
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Fri Apr 25 14:32:05 2025 -0400
+
+    this does not work
+
+commit f3499348ebcad1e93e55fabc7d4a8d7b8cf3afe8
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Thu Apr 24 16:49:44 2025 -0400
+
+    drafted points function
+
+commit ee663a29b38ed8bf977302ee3bb7e74ec7e803f6
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Thu Apr 24 16:02:22 2025 -0400
+
+    drafted stalemate and checkmate
+
+commit 7dc214af406df1f1577ac558787048f896e7e002
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Thu Apr 24 10:23:10 2025 -0400
+
+    drafted check function, added getter for board positions map i.e. occ
+
+commit fd52e7cae105b361d8928a73e0b0bb50bb97b070
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Wed Apr 23 21:07:17 2025 -0400
+
+    finished board check path
+
+commit 2374f8d1303bb528c5cc5c4194a4c171e866fd11
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Wed Apr 23 19:05:37 2025 -0400
+
+    added check path and get piece to board
+
+commit ab9dcf2b72e082ffbc8ae4838e9d674542f659d3
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Wed Apr 23 18:02:52 2025 -0400
+
+    comments
+
+commit 2353220fba7c50a3c44b2f9b2b9dc85bc709ca34
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Wed Apr 23 17:59:21 2025 -0400
+
+    drafted all exception handling cases
+
+commit 6a31b6d2a5a733d675ef0618d972debaaf56feff
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Wed Apr 23 16:38:37 2025 -0400
+
+    reverted path clear code
+
+commit 98c50a7dcdb205bb0e053ea51c370580484239fa
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Wed Apr 23 14:16:55 2025 -0400
+
+    changed board.h to fix iterator
+
+commit 6b4a46743085c467aabebe1a7fcbe1999f1d17a4
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Wed Apr 23 13:26:12 2025 -0400
+
+    also added getClassName() helper function to Piece class, which is useful for error checking
+
+commit 265d99a8258d8029729d255b67f1c2d72cf77108
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Wed Apr 23 13:25:21 2025 -0400
+
+    made progress on error detection for make_move
+
+commit a6c1c5090c459148f9efd8d1e275603553566dd2
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Wed Apr 23 09:46:59 2025 -0400
+
+    added main file error exception handling
+
+commit a95c0171f889e70d288658b90ad2e413abb5c863
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Tue Apr 22 22:06:24 2025 -0400
+
+    fixed some piece things and added board iterator that's probably wrong
+
+commit deae05c409c9f135129d2604411dde67cb32713e
+Author: Megan Weng <mywwyx26@gmail.com>
+Date:   Mon Apr 21 17:31:50 2025 -0400
+
+    board.cpp done except for board iterator
+
+commit d14a64a5bfcd785294f9192e773209e87395a447
+Author: Mary Zhang <mzhan188@jh.edu>
+Date:   Mon Apr 21 14:25:54 2025 -0400
+
+    finished tester
+
+commit 8dc717c99c7c880b84646702845db83e54de6d05
+Author: Mary Zhang <mzhan188@jh.edu>
+Date:   Mon Apr 21 14:25:29 2025 -0400
+
+    finished tester.cpp
+
+commit 7ebf52a8e670dd1b453d18ca7f5a282de302a365
+Author: Mary Zhang <mzhan188@jh.edu>
+Date:   Mon Apr 21 14:14:37 2025 -0400
+
+    added tester.cpp and Mystery.cpp
+
+commit e885d995af90510beb34ced2434667673a031abc
+Author: Mary Zhang <mzhan188@jh.edu>
+Date:   Mon Apr 21 13:58:27 2025 -0400
+
+    changed coordinates check to uppercase
+
+commit b227877e245a5b72936555c9cd0852e6c6beae9d
+Author: Mary Zhang <mzhan188@jh.edu>
+Date:   Mon Apr 21 13:55:50 2025 -0400
+
+    drafted pawn and knight
+
+commit 493483f52ceb02539028a186ebd636a6c9e793d9
+Author: Mary Zhang <mzhan188@jh.edu>
+Date:   Mon Apr 21 13:36:18 2025 -0400
+
+    drafted king, rook, bishop, queen
+
+commit 2afff41d8533bff67d83542cc68a411fd1309019
+Author: Mary Zhang <mzhan188@jh.edu>
+Date:   Mon Apr 21 13:25:37 2025 -0400
+
+    drafted king.cpp
+
+commit 150d303ff476bd702ab2f2b91cadd677cb901af0
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Sat Apr 19 20:34:45 2025 -0400
+
+    README
+
+commit 3a1921c5e502ef599d20c1b4d416e37ef038f6bb
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Sat Apr 19 20:31:31 2025 -0400
+
+    README
+
+commit b28b374ff76c49a8b009d27a3336b93f16d6098f
+Author: jbrisbois2 <jbrisbois2001@gmail.com>
+Date:   Sat Apr 19 18:28:53 2025 -0400
+
+    README
+
+commit a018f386d113133ff6352acf23f689c4fea26dbf
+Author: Mary Zhang <mzhan188@jh.edu>
+Date:   Tue Apr 15 16:09:10 2025 -0400
+
+    added all starter files from cs220-sp25-public/homework/final
